@@ -1,3 +1,2 @@
 Daniela's chapter 3
-
-Keep this change(conflict branch)
+Keep this change(conflict branch) # another accepted change
