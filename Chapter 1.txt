@@ -1,4 +1,3 @@
 Alex is writting chapter 1 conflict will be here
 
-Keep this change (main branch)
- 
+Keep this change (main branch) # Anthony writing a comment here to acknowledge there was a conflict

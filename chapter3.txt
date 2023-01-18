@@ -1,2 +1,2 @@
 Daniela's chapter 3
-Don't keep this change (main)
+Keep this change(conflict branch) # another accepted change
